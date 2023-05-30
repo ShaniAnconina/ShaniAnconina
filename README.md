@@ -1,15 +1,14 @@
 <h1 align="center">Hey, I'm Shani Anconina</h1>
 <h3 align="center">A passionate Fullstack Developer.</h3>
 
-Autodidact, skilled in handling stressful situations, ambitious, high work ethic and a team player!
+⚡ Autodidact, skilled in handling stressful situations, ambitious, high work ethic and a team player!
  
-🎓 I'm proficient in **building single-page apps**
+🎓 I'm proficient in **building A single-page apps**
 
 💻 My latest project was inspired by Fiverr, check it out, it has everything! [Undefinederr](https://undefinederr.onrender.com)
 
 ✉ How to reach me **shanianconina310@gmail.com | 052-4411778**
 
-💜 Fun fact: **I love pilates, design and sunsets**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
